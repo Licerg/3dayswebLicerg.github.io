@@ -175,9 +175,9 @@ footer {
 	border-radius: 50px;
 	padding: 12px 40px;
 
-	-webkit-transition: 02s;
-	-o-transition: 02s;
-	transition: 02s;
+	-webkit-transition: 0.2s;
+	-o-transition: 0.2s;
+	transition: 0.2s;
 }
 
 .footer-button:hover {
