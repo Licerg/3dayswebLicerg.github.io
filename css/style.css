@@ -1,7 +1,7 @@
 /* Здесь будут храниться стили нашего сайта */
 body {
 	margin: 0;
-	font-family: Roboto;
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
 	font-size: 18px;
 }
 img {
@@ -52,12 +52,15 @@ transition: 0.2s;
 
 .header-button:hover {
 	box-shadow: none;
+
 }
 header small {
 	display: block;
 	font-size: 12px;
 	text-align: center;
 	margin-top: 9px;
+	
+	padding-right: 30px;
 }
 
 .header-button-block{
